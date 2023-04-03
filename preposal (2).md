@@ -2,9 +2,9 @@
 
 ## What idea(s) do you have for your final project?
 
-Random idea generator
-Task Tracker
-Tetris
+Random idea generator,
+Task Tracker,
+Tetris,
 Plant Reminders
 
 ## If you plan to collaborate with one or two classmates, what are their names?
